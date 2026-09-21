@@ -1,0 +1,16 @@
+# Entornos virtuales (infraestructura)
+venvs/
+.venv/
+.venvs/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Configuración de VS Code (opcional)
+.vscode/
